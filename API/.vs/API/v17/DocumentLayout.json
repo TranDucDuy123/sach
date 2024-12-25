@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|e:\\s\u00E1ch\\library_management_system_project\\api\\api\\migrations\\20231118143947_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\migrations\\20231118143947_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|e:\\s\u00E1ch\\library_management_system_project\\api\\api\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|e:\\s\u00E1ch\\library_management_system_project\\api\\api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|e:\\s\u00E1ch\\library_management_system_project\\api\\api\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|e:\\s\u00E1ch\\library_management_system_project\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|e:\\s\u00E1ch\\library_management_system_project\\api\\api\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|e:\\s\u00E1ch\\library_management_system_project\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|e:\\s\u00E1ch\\library_management_system_project\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1461D83-0930-42C1-B32C-3056B7F57A0A}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20231118143947_initialdb.cs",
+              "DocumentMoniker": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Migrations\\20231118143947_initialdb.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20231118143947_initialdb.cs",
+              "ToolTip": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Migrations\\20231118143947_initialdb.cs",
+              "RelativeToolTip": "API\\Migrations\\20231118143947_initialdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:10:20.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\ContextModelSnapshot.cs",
+              "ToolTip": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeToolTip": "API\\Migrations\\ContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:10:19.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\User.cs",
+              "ToolTip": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Entities\\User.cs",
+              "RelativeToolTip": "API\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:10:16.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\EmailService.cs",
+              "RelativeDocumentMoniker": "API\\EmailService.cs",
+              "ToolTip": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\EmailService.cs",
+              "RelativeToolTip": "API\\EmailService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:59:07.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LibraryController.cs",
+              "ToolTip": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "API\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAIABAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:52:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:42:02.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T06:39:21.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "E:\\s\u00E1ch\\Library_Management_System_Project\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T06:32:12.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
